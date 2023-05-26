@@ -1,0 +1,50 @@
+#
+{
+    margin: 0%;
+    padding: 0%;
+}
+.main
+{
+    background-image: url('dark.jpg');
+    background-size: 100% 100%;
+    height: auto;
+    width: 100%;
+}
+.child
+{
+    border: 5px solid rosybrown;
+    background-color: teal;
+    height: auto;
+    width: 70%;
+    margin: auto;
+}
+.optn1
+{
+    width: 90%;
+    margin-left: 5%;
+    height: 7vh;
+}
+.inp1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 1px solid black;  */
+    width: 20%;
+    
+}
+.table
+{
+    width: 80%;
+}
+li
+{
+    float: left;
+    margin-left: 10%;
+    list-style: none;
+}
+.three
+{
+    margin-left: 75%;
+}
